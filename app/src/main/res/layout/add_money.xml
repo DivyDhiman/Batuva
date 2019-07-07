@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_light_gray"
+    android:orientation="vertical">
+
+    <Functionality_Class.RippleView
+        android:id="@+id/bank_add_money"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_18"
+        android:background="@color/white"
+        android:orientation="vertical"
+        app:rv_centered="true"
+        app:rv_color="@color/button_bg"
+        app:rv_rippleDuration="300"
+        app:rv_type="doubleRipple"
+        app:rv_zoomDuration="80">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/margin_50"
+            android:layout_marginBottom="@dimen/margin_18"
+            android:layout_marginEnd="@dimen/margin_15"
+            android:layout_marginStart="@dimen/margin_15"
+            android:layout_marginTop="@dimen/margin_15"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/add_money"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/margin_35"
+                android:layout_weight="0.1"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.9"
+                android:textColor="@color/button_bg"
+                android:text="@string/add_money"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="@dimen/margin_13"/>
+
+        </LinearLayout>
+    </Functionality_Class.RippleView>
+
+    <Functionality_Class.RippleView
+        android:id="@+id/bank_transfer_money"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_18"
+        android:background="@color/white"
+        android:orientation="vertical"
+        app:rv_centered="true"
+        app:rv_color="@color/button_bg"
+        app:rv_rippleDuration="300"
+        app:rv_type="doubleRipple"
+        app:rv_zoomDuration="80">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/margin_50"
+            android:layout_marginBottom="@dimen/margin_18"
+            android:layout_marginEnd="@dimen/margin_15"
+            android:layout_marginStart="@dimen/margin_15"
+            android:layout_marginTop="@dimen/margin_15"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/transfer_money"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/margin_35"
+                android:layout_weight="0.1"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.85"
+                android:textColor="@color/button_bg"
+                android:text="@string/transfer_to_bank"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="@dimen/margin_13"/>
+
+        </LinearLayout>
+    </Functionality_Class.RippleView>
+</LinearLayout>

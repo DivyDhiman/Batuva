@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">Batua</string>
+    <string name="username">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="termscondition">Terms &amp; Conditions</string>
+    <string name="powerby">&#169; Shrink My Issues,2016</string>
+    <string name="or">OR</string>
+    <string name="welcome_home">Welcome Home</string>
+    <string name="Pleasewait">Please wait &#8230;</string>
+    <string name="enter_username">Please enter phone number</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="enable_internet">Please enable your internet</string>
+    <string name="enter_personal_data">Please enter your personal data</string>
+    <string name="name_f_l">Name (First and Last)</string>
+    <string name="practice_address">Practice address</string>
+    <string name="type_speciality">Type of speciality</string>
+    <string name="register_intern_coach">I\'m a registered intern, recovery coach or life coach</string>
+    <string name="license_number">License number</string>
+    <string name="license_or_certification">License or certification</string>
+    <string name="license_issuance">License issuance:MM/YY</string>
+    <string name="upload_copies">Upload copies</string>
+    <string name="license">License</string>
+    <string name="license_insurance">License insurance</string>
+    <string name="upload_photo_yourself">Upload photo of yourself</string>
+    <string name="my_photo">My photo</string>
+    <string name="next_step">Next step</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="license_certification">License Certification</string>
+    <string name="supervisor_license">Supervisor License</string>
+    <string name="upload_letter">Upload letter for:</string>
+    <string name="proof_supervision">Proof of supervision</string>
+    <string name="identify_areas">Identify the areas in which you are specialize</string>
+    <string name="click_all">( click all that apply ):</string>
+    <string name="back">Back</string>
+    <string name="age_specialities">Age Specialities</string>
+    <string name="session_formats">Session formats</string>
+    <string name="treatment_approaches">Treatment Approaches</string>
+    <string name="additional_languages">Additional languages spoken</string>
+    <string name="type_here">Type here &#8230;</string>
+    <string name="insurance_plan_accepted">Insurance plan accepted</string>
+    <string name="select">Select</string>
+    <string name="select_membership_plan">Select a membership plan</string>
+    <string name="finish">Finish</string>
+    <string name="gender">Gender</string>
+    <string name="agree_terms_conditions">I Agree to </string>
+    <string name="and"> and </string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm email</string>
+    <string name="please_enter_registration_info">Please enter your registration information</string>
+    <string name="select_type">Select the type of user you want to register:</string>
+    <string name="register_client">you want to register as a</string>
+    <string name="type_client">client</string>
+    <string name="shrink_your_issues">to shrink your issues</string>
+    <string name="register_pro">you want to help and be a</string>
+    <string name="type_pro">pro</string>
+    <string name="shrink_other_issues">to shrink other issues</string>
+    <string name="please_enter_personal_info">Please enter your personal information</string>
+    <string name="address">Select your address</string>
+    <string name="please_enter_card_info">Please enter your credit card information</string>
+    <string name="name_card">Name on card</string>
+    <string name="card_number">Card number</string>
+    <string name="mm">MM/YY</string>
+    <string name="cvv">CVV2/CVC2</string>
+    <string name="confirm">Confirm</string>
+    <string name="client">Client</string>
+    <string name="pro">Pro</string>
+    <string name="empty_username">Please enter your phone number</string>
+    <string name="empty_password">Please enter your password</string>
+    <string name="empty_confirm_password">Please confirm your password</string>
+    <string name="empty_email">Please enter your email id</string>
+    <string name="empty_confirm_email">Please confirm your email</string>
+    <string name="valid_email">Please enter valid email id</string>
+    <string name="password_length">Password length must be in between 6 to 20</string>
+    <string name="matches_email">Email and confirm email are not match</string>
+    <string name="matches_password">Password and confirm password are not match</string>
+    <string name="select_gender">Select your gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_name">Please enter your first and last name</string>
+    <string name="empty_address">Please select address</string>
+    <string name="empty_gender">Please select gender</string>
+    <string name="empty_terms_condition">Please agree with terms and conditions</string>
+    <string name="forgot_password">Forgot Password !</string>
+    <string name="empty_plan">Please select your membership plan</string>
+    <string name="empty_card_holder_name">Please enter card holder name</string>
+    <string name="empty_card_number">Please enter your card number</string>
+    <string name="empty_month_year">Please select card expiry date</string>
+    <string name="empty_card_cvv">Please enter your card cvv2 or cvc2 number</string>
+    <string name="invalid_card_number">Card number should be between 15 to 16 number</string>
+    <string name="invalid_cvv">Card cvv2 or cvc2 should be between 3 to 5 number</string>
+    <string name="my_issue">My Issues</string>
+    <string name="find_shrink">Find A Shrink</string>
+    <string name="messages">Messages</string>
+    <string name="peer_group">Peer Group</string>
+    <string name="settings">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="please_grant_permission">Please grant permission of location uses</string>
+    <string name="register_email_id">Please enter your register email id</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="ok">Ok</string>
+    <string name="password_reset_steps">Please check your email for password reset steps</string>
+    <string name="save">Save</string>
+    <string name="missing_address">Seems like address are missing in google map , please name the address</string>
+    <string name="profile_pic_upload">Upload your profile image</string>
+    <string name="empty_speciality">Please select speciality type</string>
+
+
+    <string name="title">Title</string>
+    <string name="send">send</string>
+    <string name="profile_menu">Profile</string>
+    <string name="messages_menu">Messages</string>
+    <string name="rate_us_menu">Rate Us</string>
+    <string name="contact_us_menu">Contact Us</string>
+    <string name="logout_menu">Logout</string>
+    <string name="wallet_balance">Wallet Balance</string>
+
+    <string name="payment_sub">Payment</string>
+    <string name="add_money_sub">Add Money</string>
+    <string name="e_book_sub">E-book</string>
+    <string name="accept_payment_sub">Accept Payment</string>
+
+    <string name="type_e_book">type_e_book</string>
+    <string name="type_payment">type_payment</string>
+
+    <string name="oops_error_occur">Oops error occur ! Please try after sometimes</string>
+    <string name="type_location_search">Location Search</string>
+    <string name="server_key">AIzaSyD2kdugukhu2noukkdzvIWDlcO5blO4HJQ</string>
+
+    <string name="terms_conditions_points">Following are terms and conditions</string>
+    <string name="privacy_policy_points">Following are privacy policy</string>
+    <string name="update_soon">Working on it soon will update</string>
+    <string name="gps_enable">GPS Enable !</string>
+    <string name="location_near_you">Please enable your GPS if you are near your address or you can add location manually by searching location on search bar</string>
+
+    <string name="title1">Hi</string>
+    <string name="title2">PrePaid and PostPaid Recharge</string>
+    <string name="title3">DTH Recharge</string>
+    <string name="title4">Reports</string>
+    <string name="title5">Money Transfer</string>
+    <string name="description1">Welcome to Batua App</string>
+    <string name="description2">Easy Recharge your PrePaid and PostPaid</string>
+    <string name="description3">Now support DTH Recharge</string>
+    <string name="description4">You can also all your rechange history and report if something going wrong</string>
+    <string name="description5">Easy money transfer between users and money addition from a bank account</string>
+
+    <string name="home">Home</string>
+    <string name="offers">Offers</string>
+    <string name="update">Update</string>
+
+    <string name="transfer_money">Transfer Money</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="prepaid_recharge">M. Prepaid</string>
+    <string name="postpaid_recharge">M. Postpaid</string>
+    <string name="dth_recharge">DTH</string>
+    <string name="broad_band">Broadband</string>
+    <string name="land_line">Landline</string>
+    <string name="datacard_recharge">Data Card</string>
+    <string name="insurance">Insurance</string>
+    <string name="electricity">Electricity</string>
+    <string name="gas">GAS</string>
+
+    <string name="transfer_to_bank">Transfer to bank</string>
+    <string name="add_money">Add money from bank</string>
+    <string name="batuva_balace">Batua Balance </string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <string name="transition_history">Transition History</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="feed_back">Feedback</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="batuva_cash_send">Batua Cash send</string>
+    <string name="batuva_cash_recharge">Batua Cash reacharge</string>
+    <string name="batuva_cash_added">Batua Cash added</string>
+    <string name="need_help">Need Help?</string>
+
+    <string name="dummy_text">Under progress .Soon will update as per API response</string>
+
+
+</resources>
